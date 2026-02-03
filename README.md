@@ -11,6 +11,8 @@
 
 ## Table of Contents
 
+**Download here** https://github.com/Too-Many-Ideas/twitter-automation-ai
+
 - [Advanced Twitter Automation AI](#advanced-twitter-automation-ai)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
@@ -132,7 +134,7 @@ Quick-start templates are available in `presets/`.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/ihuzaifashoukat/twitter-automation-ai
+git clone https://github.com/Too-Many-Ideas/twitter-automation-ai
 cd twitter-automation-ai
 ```
 
