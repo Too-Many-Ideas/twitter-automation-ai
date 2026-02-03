@@ -1,11 +1,5 @@
 # Advanced Twitter Automation AI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
-[![Issues](https://img.shields.io/github/issues/ihuzaifashoukat/twitter-automation-ai)](https://github.com/ihuzaifashoukat/twitter-automation-ai/issues)
-[![Forks](https://img.shields.io/github/forks/ihuzaifashoukat/twitter-automation-ai)](https://github.com/ihuzaifashoukat/twitter-automation-ai/network/members)
-[![Stars](https://img.shields.io/github/stars/ihuzaifashoukat/twitter-automation-ai)](https://github.com/ihuzaifashoukat/twitter-automation-ai/stargazers)
-[![Contributors](https://img.shields.io/github/contributors/ihuzaifashoukat/twitter-automation-ai)](https://github.com/ihuzaifashoukat/twitter-automation-ai/graphs/contributors)
 
 **Advanced Twitter Automation AI** is a modular Python-based framework for automating X (Twitter) at scale. It supports multiple accounts, robust Selenium automation (with optional undetected Chrome + stealth), per‑account proxies and rotation, structured LLM generation/analysis (OpenAI, Azure OpenAI, Gemini), community posting, and per‑account metrics/logs.
 
